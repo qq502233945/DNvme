@@ -1,2 +1,2 @@
-/home/qs/linuxs/ssd_direct/dnvme.o
+/home/qs/linuxs/DNvme/dnvme.o
 
